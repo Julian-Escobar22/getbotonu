@@ -1,0 +1,1 @@
+ D:\\botongetx\\butonget\\lib/generated\\app_localizations_en.dart D:\\botongetx\\butonget\\lib/generated\\app_localizations_es.dart D:\\botongetx\\butonget\\lib/generated\\app_localizations.dart:  D:\\botongetx\\butonget\\l10n.yaml D:\\botongetx\\butonget\\lib/l10n\\app_en.arb D:\\botongetx\\butonget\\lib/l10n\\app_es.arb
